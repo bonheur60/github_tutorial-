@@ -1,8 +1,8 @@
 Hello Git tutorial!
 Second line!
 third line
-<<<<<<< HEAD
-master line
-=======
-testing line
->>>>>>> testing
+
+
+
+testing list
+
